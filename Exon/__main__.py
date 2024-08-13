@@ -664,7 +664,9 @@ def main():
 ㅤ🥀 {dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ ✨ .....
 
 ━━━━━━━━━━━━━
-⍟ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/{OWNER_USERNAME})
+⍟ ᴍʏ [Master] (https://t.me/{OWNER_USERNAME})
+▰▱▰▱▰▱▰▱▰▱▰▱▰
+
 ⍟ **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{lver}`
 ⍟ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tver}`
 ⍟ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pver}`
