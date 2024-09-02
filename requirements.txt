@@ -1,4 +1,4 @@
-Abg==2.3.8
+abg==2.3.9
 aiofiles
 aiohttp>=3.9.2
 httpx[http2]>=0.18.1,<1.0.0
@@ -18,7 +18,7 @@ multicolorcaptcha==1.2.0
 Pillow>=10.2.0
 psutil==5.9.8
 psycopg2-binary==2.9.9
-pyYAML==6.0.1
+pyYAML==6.0.2
 pyrate-limiter==2.8.5
 python-telegram-bot==13.15
 requests==2.32.3
@@ -36,8 +36,7 @@ tgcrypto-pyrofork
 pyrofork
 python-arq==6.0.7
 python-dotenv==1.0.1
-ffmpeg-python==0.2.0
-redis==5.0.2
+redis==5.0.8
 telegraph==2.2.0
 motor
 pymongo[srv]==4.7.2
